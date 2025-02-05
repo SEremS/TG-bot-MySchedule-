@@ -1,7 +1,7 @@
 from telebot import *
 import sqlite3
 
-bot = TeleBot('7738674082:AAEIe1ZsgHM5dz_9QwR5g91o1YaphSnk0oE')
+bot = TeleBot('TOKENBOT')
 
 
 day, lesson_name, office, teacher, day_schedule = None, None, None, None, None
